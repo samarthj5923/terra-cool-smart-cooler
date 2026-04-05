@@ -1,5 +1,9 @@
-![Problem](problem.png)
-![Solution](solution.png)
+![Market Gap](market-gap.png)
+![Feature Design](feature-design.png)
+
+# TerraCool Smart Air Cooler – Product Strategy
+
+> Designed a mid-market smart cooling solution by identifying a gap between low-cost coolers and high-cost air conditioners.
 
 # TerraCool Smart Air Cooler – Product Strategy
 
