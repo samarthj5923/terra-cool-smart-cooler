@@ -4,6 +4,7 @@
 # TerraCool Smart Air Cooler – Product Strategy
 
 > Designed a mid-market smart cooling solution by identifying a gap between low-cost coolers and high-cost air conditioners.
+> Identified a ₹10K–₹15K pricing gap and designed a product to capture a ~1.5M household opportunity.
 
 ---
 
